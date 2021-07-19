@@ -1,5 +1,3 @@
-//Dupla: Ingrid Miranda dos Santos e João Pedro Monteiro
-
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
