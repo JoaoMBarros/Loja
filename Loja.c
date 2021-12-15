@@ -2,6 +2,7 @@
 #include <string.h>
 #define MAX 100
 
+
 typedef struct{
 	int tetoBonus;
 	float valorBonus;
