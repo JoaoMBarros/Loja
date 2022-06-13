@@ -1,2 +1,3 @@
-# Código da loja
-Última avaliação UFPI 1 semestre.
+# Sistema de uma loja
+
+Sistema completo do funcionamento de uma loja, com funcionalidade de bonificação.
